@@ -3,7 +3,7 @@
 ## 1. Datos generales
 
 - **Nombre completo:** Fr4nklin J0sué Torr3s R0mero
-- **Carné:** ______
+- **Carné:** No especificado
 - **Correo institucional:** pr0fr4nklint0rres@pr0tonm4ail.com
 - **Asignatura:** Respuesta a Incidentes de Seguridad
 - **Fecha:** 09 de noviembre de 2026
