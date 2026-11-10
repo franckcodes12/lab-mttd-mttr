@@ -24,6 +24,9 @@ respuesta simulada de bloqueo de usuario.
 Finalmente, se calcularon las métricas **MTTD** (Mean Time to Detect) y
 **MTTR** (Mean Time to Respond) mediante tres escenarios de prueba.
 
+Evidencia:
+https://www.mediafire.com/folder/iodg0jr1km6mh/Evidencia+Práctica+de+Seguridad+MTTD+y+MTTR
+
 ## 3. Estructura del proyecto
 
 ```text
